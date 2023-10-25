@@ -1,0 +1,196 @@
+{
+  "cities": [
+    {
+      "cityName": "Bucharest",
+      "country": "Romania",
+      "emoji": "ro",
+      "date": "2023-08-05T11:59:18.256Z",
+      "position": {
+        "lat": "44.4465152",
+        "lng": "26.0702208"
+      },
+      "notes": "ads",
+      "id": 1691236760502
+    },
+    {
+      "cityName": "Daneborg",
+      "country": "Greenland",
+      "emoji": "gl",
+      "date": "2023-08-05T12:01:51.387Z",
+      "position": {
+        "lat": "75.80058099438426",
+        "lng": "-24.261058944217396"
+      },
+      "notes": "asd",
+      "id": 1691236956675
+    },
+    {
+      "cityName": "Daneborg",
+      "country": "Greenland",
+      "emoji": "gl",
+      "date": "2023-08-05T12:01:51.387Z",
+      "position": {
+        "lat": "75.80058099438426",
+        "lng": "-24.261058944217396"
+      },
+      "notes": "asd",
+      "id": 1691236966042
+    },
+    {
+      "cityName": "Sorfold",
+      "country": "Norway",
+      "emoji": "no",
+      "date": "2023-08-05T12:01:51.387Z",
+      "position": {
+        "lat": "67.3355136676354",
+        "lng": "15.99088289686126"
+      },
+      "notes": "asd",
+      "id": 1691236967571
+    },
+    {
+      "cityName": "Bir Mogrein",
+      "country": "Mauritania",
+      "emoji": "mr",
+      "date": "2023-08-05T12:05:32.809Z",
+      "position": {
+        "lat": "25.101315258103437",
+        "lng": "-8.352855819217394"
+      },
+      "notes": "",
+      "id": 1691237152739
+    },
+    {
+      "cityName": "Ivdel’",
+      "country": "Russian Federation (the)",
+      "emoji": "ru",
+      "date": "2023-08-05T12:08:27.603Z",
+      "position": {
+        "lat": "60.858859210224914",
+        "lng": "60.6124226253092"
+      },
+      "notes": "zxc",
+      "id": 1691237310232
+    },
+    {
+      "cityName": "Bucharest",
+      "country": "Romania",
+      "emoji": "ro",
+      "date": "2023-08-05T12:56:34.890Z",
+      "position": {
+        "lat": "44.4465152",
+        "lng": "26.0702208"
+      },
+      "notes": "asd",
+      "id": 1691240197928
+    },
+    {
+      "cityName": "Daneborg",
+      "country": "Greenland",
+      "emoji": "gl",
+      "date": "2023-08-05T13:55:27.466Z",
+      "position": {
+        "lat": "75.27358764031531",
+        "lng": "-29.800354394834063"
+      },
+      "notes": "arfsd",
+      "id": 1691243732624
+    },
+    {
+      "cityName": "Belle Fourche-Cheyenne Valleys",
+      "country": "United States of America (the)",
+      "emoji": "us",
+      "date": "2023-08-07T06:33:06.423Z",
+      "position": {
+        "lat": "44.459457173281756",
+        "lng": "-102.84546880471504"
+      },
+      "notes": "vbc",
+      "id": 1691389990533
+    },
+    {
+      "cityName": "Suhaia",
+      "country": "Romania",
+      "emoji": "ro",
+      "date": "2023-09-10T15:36:16.601Z",
+      "position": {
+        "lat": "43.70033300195825",
+        "lng": "25.229102343750007"
+      },
+      "notes": "mergejkas kasd",
+      "id": 1694360190681
+    },
+    {
+      "cityName": "Hustadvika",
+      "country": "Norway",
+      "emoji": "no",
+      "date": "2023-09-10T15:36:44.637Z",
+      "position": {
+        "lat": "63.21900357492148",
+        "lng": "6.894148359374985"
+      },
+      "notes": "",
+      "id": 1694360236583
+    },
+    {
+      "cityName": "Ilijas",
+      "country": "Bosnia and Herzegovina",
+      "emoji": "ba",
+      "date": "2023-09-10T15:37:51.781Z",
+      "position": {
+        "lat": "44.038332043497476",
+        "lng": "18.391113281250004"
+      },
+      "notes": "zxcv",
+      "id": 1694360274235
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "it",
+      "date": "2023-09-10T15:38:08.279Z",
+      "position": {
+        "lat": "41.815808657040016",
+        "lng": "12.524414062500002"
+      },
+      "notes": "Nice place to visit\n",
+      "id": 1694360294862
+    },
+    {
+      "cityName": "Denali Borough",
+      "country": "United States of America (the)",
+      "emoji": "us",
+      "date": "2023-09-12T15:08:04.592Z",
+      "position": {
+        "lat": "63.54855223203644",
+        "lng": "-148.35937500000003"
+      },
+      "notes": "",
+      "id": 1694531300749
+    },
+    {
+      "cityName": "Aasiaat",
+      "country": "Greenland",
+      "emoji": "gl",
+      "date": "2023-09-12T15:08:23.650Z",
+      "position": {
+        "lat": "67.941650035336",
+        "lng": "-45.3515625"
+      },
+      "notes": "",
+      "id": 1694531304565
+    },
+    {
+      "cityName": "Daneborg",
+      "country": "Greenland",
+      "emoji": "gl",
+      "date": "2023-09-12T15:08:26.115Z",
+      "position": {
+        "lat": "77.31251993823143",
+        "lng": "-42.5390625"
+      },
+      "notes": "",
+      "id": 1694531307080
+    }
+  ]
+}
